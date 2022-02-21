@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.skomlach:biometric:1.0.100@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/dadc4e198713404788a1c2f7e187acb4/transformed/jetified-biometric-1.0.100/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/dadc4e198713404788a1c2f7e187acb4/transformed/jetified-biometric-1.0.100/jars/libs/Samsung_sdk-v1.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/dadc4e198713404788a1c2f7e187acb4/transformed/jetified-biometric-1.0.100/jars/libs/soter-core-2.0.6.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/dadc4e198713404788a1c2f7e187acb4/transformed/jetified-biometric-1.0.100/jars/libs/localauthentication-1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/dadc4e198713404788a1c2f7e187acb4/transformed/jetified-biometric-1.0.100/jars/libs/Samsung_pass-v1.2.6.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/dadc4e198713404788a1c2f7e187acb4/transformed/jetified-biometric-1.0.100/jars/libs/Flyme_fingerprint.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dadc4e198713404788a1c2f7e187acb4/transformed/jetified-biometric-1.0.100/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dadc4e198713404788a1c2f7e187acb4/transformed/jetified-biometric-1.0.100/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.skomlach/biometric/1.0.100/9bc56e4b5ff82ca5f8bec9ba17cd9fee275d11ca/biometric-1.0.100-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
